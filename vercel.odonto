@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- SEO Primário -->
+    <title>Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa — Vila Flor/RN</title>
+    <meta name="title" content="Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa — Vila Flor/RN" />
+    <meta name="description" content="Odontologia integrada em Vila Flor - RN. Cuidado completo para sua saúde, estética e bem-estar com Dr. Bruno Sousa (CRO-RN 5727) e Dra. Anny Sousa. Atendimento manhã e noite." />
+    <meta name="keywords" content="dentista Vila Flor RN, Dr. Bruno Sousa, Dra. Anny Sousa, facetas, ortodontia, botox, odontologia, clínica odontológica" />
+    <link rel="canonical" href="https://seusite.com.br/" />
+
+    <!-- Open Graph / Facebook / WhatsApp (Use caminhos absolutos para as imagens se possível) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://seusite.com.br/" />
+    <meta property="og:title" content="Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa" />
+    <meta property="og:description" content="Seu sorriso com compromisso e confiança. Estética dental, ortodontia e botox em Vila Flor, RN." />
+    <meta property="og:image" content="O seu código original já estava muito bom, mas fiz alguns ajustes técnicos cruciais para evitar erros de validação, melhorar a indexação no Google e garantir que as redes sociais (WhatsApp, Instagram) puxem as imagens corretamente.
+
+Aqui está o código corrigido e otimizado:
+
+```html
+<!     
+<!doctype html>
+<html lang="pt-BR" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- SEO Básico -->
+    <title>Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa — Vila Flor/RN</title>
+    <meta name="description" content="Odontologia integrada em Vila Flor - RN. Cuidado completo para sua saúde e estética com Dr. Bruno Sousa e Dra. Anny Sousa. Atendimento diferenciado manhã e noite." />
+    <meta name="keywords" content="dentista vila flor rn, odonto integrada, dr bruno sousa, dra anny sousa, facetas, ortodontia, clareamento, botox vila flor" />
+    <meta name="author" content="Odonto Integrada" />
+
+    <!-- Redes Sociais (Open Graph / WhatsApp / Facebook) -->
+    <meta property="og:title" content="Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa" />
+    <meta property="og:description" content="Seu sorriso com compromisso e confiança. Atendimento em horários flexíveis em Vila Flor, RN." />
+    <meta property="og:type" content="https://seusite.com.br/images/bruno_odonto_integrada_collab.jpg" />
+    <meta property="og:locale" content="pt_BR" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://seusite.com.br/" />
+    <meta property="twitter:title" content="Odonto Integrada | Dr. Bruno Sousa & Dra. Anny Sousa" />
+    <meta property="twitter:description" content="Cuidado completo para sua saúde, estética e bem-estar em Vila Flor/RN." />
+    <meta property="twitter:image" content="https://seusite.com.br/images/bruno_website" />
+    <meta property="og:url" content="https://www.odontointegradavilaflor.com.brodonto_integrada_collab.jpg" />
+
+    <!-- Favicon e Cores -->
+    <meta/" /> <!-- Substitua pelo seu domínio real -->
+    <!-- Importante: og:image precisa do caminho completo (URL absoluta) para funcionar no WhatsApp -->
+    <meta property="og:image" content="https://www.odontointegradavilaflor.com.br/images/bruno_odonto_integrada_collab.jpg" />
+    <meta property="og:locale" content="pt_BR" />
+
+    <!-- name="theme-color" content="#0B192C" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="apple-touch-icon" href="/logo.svg" />
+
+    <!-- Fontes (Otimizadas com Preconnect e Swap Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Odonto Integrada | Vila Flor/RN" />
+    <meta name="twitter:image" content="https://www.odontointegradavilaflor.com.br/images/bruno_odonto_integrada_collab.jpg" />
+
+    <!-- Favicons e Ícones -->
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"> <!-- Recomendado para iPhones -->
+    <meta name="theme-color" content="#0B192C" />
+
+    <!-- Fontes e Performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- JSON-LD (Dados Estruturados para o Google) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Odonto Integrada — Dr. Bruno Sousa & Dra. Anny Sousa",
+      ) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- JSON-LD (Dados Estruturados corrigidos) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Odonto Integrada — Dr. Bruno Sousa & Dra. Anny Sousa",
+      "image": "https://seusite.com.br/images/bruno_odonto_integrada_collab.jpg",
+      "@id": "https://seusite.com.br/",
+      "url": "https://seusite.com.br/",
+      "image": "https://www.odontointegradavilaflor.com.br/images/bruno_odonto_integrada_collab.jpg",
+      "telephone": "+55-84-99173-0989",
+      "url": "https://www.odontointegradavilaflor.com.br",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Campo Santo, Nº 57",
+        "addressLocality": "Vila Flor",
+        "addressRegion": "RN",
+        "postalCode": "59194-000",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates","telephone": "+5584991730989",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Campo Santo, Nº 57",
+        "addressLocality": "Vila Flor",
+        "addressRegion": "RN",
+        "postalCode": "59194-000",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+
+        "latitude": -6.3144,
+        "longitude": -35.0747
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "17:00",
+          "closes":        "latitude": -6.3144,
+        "longitude": -35.0747
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "17:00",
+          "closes": "22:00"
+        },
+        {
+          "@type": "Opening "22:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "14:00",
+          "closes": "17:00"
+        }
+      ],
+      "priceRange": "$$",
+      "medicalSpecialty": "Dentistry"
+    }
+    </script>
+  </head>
+  <body class="bg-[#0B192C] text-slate-100 font-sans antialiased selection:bg-cyan-500 selection:text-white">
+    <div id="rootHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "14:00",
+          "closes": "17:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.instagram.com/seu_instagram"
+      ]
+    }
+    </script>
+  </head>
+  <body class="bg-[#0B192C] text-slate-100 font-sans antialiased selection:bg-cyan-500 selection:text-white">
+    <!-- O React"></div>
+    <!-- O script do Vite deve vir após a div root -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
